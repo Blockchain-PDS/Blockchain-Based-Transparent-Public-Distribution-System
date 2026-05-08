@@ -1,0 +1,22 @@
+{
+  "name": "pds-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "hardhat": "^3.4.4"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^4.0.10",
+    "@types/node": "^22.19.17",
+    "ethers": "^6.16.0",
+    "typescript": "~5.8.0"
+  }
+}
